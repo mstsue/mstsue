@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a University student.  
-I'm currently learning programming with python
+I'm a university student.  
+I'm currently learning programming.
 
 <!--
 **mstsue/mstsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
